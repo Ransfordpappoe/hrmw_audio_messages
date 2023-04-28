@@ -1,0 +1,25 @@
+{
+  "name": "hrmw_audio_messages",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "script": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ransfordpappoe/hrmw_audio_messages.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ransfordpappoe/hrmw_audio_messages/issues"
+  },
+  "homepage": "https://github.com/Ransfordpappoe/hrmw_audio_messages#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "json-serve": "^0.1.0",
+    "json-server": "^0.17.3"
+  }
+}
