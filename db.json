@@ -61,5 +61,57 @@
       "id": 10
     }
 
+  ],
+
+  "videoMessage":[
+     {
+      "title": "The Incomparable Power Of God In His Child By Pastor Paul Rika",
+      "videoUrl": "https://docs.google.com/uc?export=open&id=1Uxd4QH5-sKrD9uoxuWBZS_ToVUnj1I0r",
+      "image": "https://docs.google.com/uc?export=open&id=1n8cRn0FF3tztVtPIzCrv32HtwcQwrk8G",
+      "id":1
+     },
+
+     {
+      "title": "The Evil Effects Of The Sin Of One Man On The Multitude By Pastor Paul Rika",
+      "videoUrl": "https://docs.google.com/uc?export=open&id=1rk4pcAOMN2_CONDOXPVBrdyBbpqyb3cv",
+      "image": "https://docs.google.com/uc?export=open&id=1xd8b0HA1R4Vsv8jCzhfpzftgpdgbdZys",
+      "id":2
+     },
+
+     {
+      "title": "Desire To See The Lord By Sister Linda Paul Rika",
+      "videoUrl": "https://docs.google.com/uc?export=open&id=1E8o1KjzAM6xNBLZ1wsrWmtj5rFeA-j8m",
+      "image":"https://docs.google.com/uc?export=open&id=1PpTWbQaTWDwZO0TZnn09Uz9Dm-9tez9l",
+      "id":3
+     },
+
+     {
+      "title": "Fearing God Or Not Fearing God In Your Life By Pastor Paul Rika",
+      "videoUrl": "https://docs.google.com/uc?export=open&id=1n58iU6vFmbt_ZRR9Dnow0Lsygg2kjaUV",
+      "image":"https://docs.google.com/uc?export=open&id=1zkeOCKp8qjBhVu6QOnKSCoDY0Q-NMD86",
+      "id":4
+     },
+
+     {
+      "title": "Importance Of Prophecy And Revelation by Pastor paul Rika",
+      "videoUrl": "https://docs.google.com/uc?export=open&id=1aTIhT1zXIDsWYRIwMjudD8B9eh2r5dIo",
+      "image": "https://docs.google.com/uc?export=open&id=16ByEKDvtyJTtypJ6ZpZSiO_W6KAJ32Dw",
+      "id":5
+     },
+
+     {
+      "title": "Marrying In God's Will And Believer's Commitment by Pastor paul Rika",
+      "videoUrl": "https://docs.google.com/uc?export=open&id=1nzonb48Mwk14bXNBYCar2zFGfQR6V6ng",
+      "image": "https://docs.google.com/uc?export=open&id=15M_9aknuLIFCcQteGf20kpgT4APYJMTC",
+      "id":6
+     },
+
+     {
+      "title": "Receiving Christ And Abiding In Him by Pastor Paul Rika",
+      "videoUrl": "https://docs.google.com/uc?export=open&id=1U893Fyh953b5GGvZkcyVMDWQvoq6IYh-",
+      "image": "https://docs.google.com/uc?export=open&id=123oBYmvWd5DH_KLKfR_okCA9vHzfzenz",
+      "id":7
+     }
+
   ]
 }
